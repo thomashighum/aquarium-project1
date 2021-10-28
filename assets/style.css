@@ -1,0 +1,43 @@
+* {
+  color: #08090a;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+body {
+  /* background-color: #5dfdcb; */
+  /* background-color: #8789c0; */
+  background-color: #7cc6fe;
+  margin: 0%;
+}
+
+nav {
+  /* background-color: #7cc6fe; */
+  background-color: #8789c0;
+  padding: 5px;
+  margin: 0%;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+h1 {
+  margin: 0%;
+}
+
+p {
+  /* background-color: #f4faff; */
+  padding: 10px;
+  margin-top: 100px;
+}
+
+.navbar {
+  text-align: right;
+}
+
+#nav-list {
+  display: inline;
+  list-style-type: none;
+  margin-right: 10px;
+}
+
+/* Matching Colors #8789C0 (Lilac-y), #08090A (Black), #7cc6fe (lightblue), #f4faff (whiteblue)  */
